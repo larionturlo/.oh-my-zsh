@@ -2,6 +2,8 @@
 custom/
 !custom/plugins/example
 !custom/example.zsh
+README.md
+README.markdown
 
 # temp files directories
 cache/
